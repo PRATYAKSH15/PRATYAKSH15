@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratyaksh15" alt="pratyaksh15" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **GENERATIVE AI**
 
-- 👯 I’m looking to collaborate on **Frontend UX**
+- 👯 I’m looking to collaborate on **ML AND GENAI**
 
 - 🤝 I’m looking for help with **MERN and Machine learning tools**
 
-- 📫 How to reach me **pratyaksh**
+- 📫 How to reach me **Can connect through Profiles mentioned**
 
-- ⚡ Fun fact **Can code and watch cricket together**
+- ⚡ Fun fact **There Are More Stars in the Universe Than Grains of Sand on Earth.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
