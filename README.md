@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratyaksh15" alt="pratyaksh15" /></a> </p>
 
-- 🌱 I’m currently learning **GENERATIVE AI**
+- 🌱 I’m currently learning **Agentic AI with langchain and langraph**
 
-- 👯 I’m looking to collaborate on **ML AND GENAI**
+- 👯 I’m looking to collaborate on **AI powered ideas and NextJS**
 
-- 🤝 I’m looking for help with **MERN and Machine learning tools**
+- 🤝 I’m looking for help with **backend with fastAPI**
 
-- 📫 How to reach me **Can connect through Profiles mentioned**
+- 📫 How to reach me **through Profiles mentioned**
 
 - ⚡ Fun fact **There Are More Stars in the Universe Than Grains of Sand on Earth.**
 
