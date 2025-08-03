@@ -4,7 +4,7 @@
 # 💫 About Me:
 🔭 I’m currently working on GuidelyAI<br>👯 I’m looking to collaborate on AI powered Ideas<br>🤝 I’m looking for help with flaskAPI working<br>🌱 I’m currently learning Agentic AI with langGraph<br>💬 Ask me about Generative AI, MERN Stack, Machine Learning<br>⚡ Fun fact There Are More Stars in the Universe Than Grains of Sand on Earth
 
-📫 How to reach me pratyaksh1594@gmail.com<br><br>
+📫 How to reach me pratyaksh1594@gmail.com <br>
 📄 Know about my experiences https://pratyaksh-portfolio.vercel.app/
 
 
@@ -22,6 +22,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PRATYAKSH15&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=da-nin-ja&label=Profile%20views&color=0e75b6&style=flat" alt="da-nin-ja" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
