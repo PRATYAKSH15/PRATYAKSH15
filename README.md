@@ -22,6 +22,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=da-nin-ja&label=Profile%20views&color=0e75b6&style=flat" alt="da-nin-ja" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pratyaksh15&label=Profile%20views&color=0e75b6&style=flat" alt="pratyaksh15" />
+</p>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
