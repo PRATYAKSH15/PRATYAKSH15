@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web and AI/ML developer from India</h3>
 
 # 💫 About Me:
-<h4>🔭 I’m currently working on GuidelyAI<br>👯 I’m looking to collaborate on AI powered Ideas<br>🤝 I’m looking for help with flaskAPI working<br>🌱 I’m currently learning Agentic AI with langGraph<br>💬 Ask me about Generative AI, MERN Stack, Machine Learning<br>⚡ Fun fact There Are More Stars in the Universe Than Grains of Sand on Earth <h4/>
+<h4>🔭 I’m currently working on GuidelyAI<br>🤝 I’m looking for help with flaskAPI workflows <br>🌱 I’m currently learning Agentic AI with langGraph<br>💬 Ask me about Generative AI, MERN Stack, Machine Learning<br>⚡ Fun Fact: Study too much-> stressed. Study too little-> stressed later (or not at all)<h4/>
 
 📫 How to reach me pratyaksh1594@gmail.com <br>
 📄 Know about my experiences https://pratyaksh-portfolio.vercel.app/
