@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pratyaksh</h1>
 <h3 align="center">A passionate Web and AI/ML developer from India</h3>
 
-# 💫 About Me:
-<h4>🔭 I’m currently working on GuidelyAI<br>🤝 I’m looking for help with flaskAPI workflows <br>🌱 I’m currently learning Agentic AI with langGraph<br>💬 Ask me about Generative AI, MERN Stack, Machine Learning<br>⚡ Fun Fact: Study too much-> stressed, Study too little-> stressed later (or not at all)<h4/>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=pratyaksh15&label=Profile%20views&color=0e75b6&style=flat" alt="pratyaksh15" />
+</p>
+
+# 💫 About Me: 
+<h4>🔭 I’m currently working on GuidelyAI<br>🤝 I’m looking for help with flaskAPI workflows <br>🌱 I’m currently learning Agentic AI with langGraph<br>💬 Ask me about Generative AI, MERN Stack, Machine Learning<br>⚡ Fun Fact: Study too much-> stressed, Study too little-> stressed later (or not at all)<h4/> 
 
 📫 How to reach me pratyaksh1594@gmail.com <br>
 📄 Know about my experiences https://pratyaksh-portfolio.vercel.app/
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratyakshh15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyaksh-989922256/) [![](https://img.shields.io/badge/X-black.svg?logoColor=white)](https://x.com/Pratyaksh_1509) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratyaksh1594@gmail.com) 
@@ -21,10 +24,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
+<!-- ---
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pratyaksh15&label=Profile%20views&color=0e75b6&style=flat" alt="pratyaksh15" />
-</p>
+</p> -->
 
 
 
