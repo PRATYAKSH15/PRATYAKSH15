@@ -6,7 +6,7 @@
 </p>
 
 # 💫 About Me: 
-<h4>🔭 I’m currently working on GuidelyAI<br>🤝 I’m looking for help with flaskAPI workflows <br>🌱 I’m currently learning Agentic AI with langGraph<br>💬 Ask me about Generative AI, MERN Stack, Machine Learning<br>⚡ Fun Fact: Study too much-> stressed, Study too little-> stressed later (or not at all)<h4/> 
+🔭 I’m currently working on GuidelyAI<br>🤝 I’m looking for help with flaskAPI workflows <br>🌱 I’m currently learning Agentic AI with langGraph<br>💬 Ask me about Generative AI, MERN Stack, Machine Learning<br>⚡ Fun Fact: Study too much-> stressed, Study too little-> stressed later (or not at all)
 
 📫 How to reach me pratyaksh1594@gmail.com <br>
 📄 Know about my experiences https://pratyaksh-portfolio.vercel.app/
