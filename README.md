@@ -9,7 +9,7 @@
 🔭 I’m currently working on CitizenCare <br>🤝 I’m looking for help with AI integrated workflows<br>🌱 I’m currently learning Agentic AI with langGraph<br>💬 Ask me about Generative AI, MERN Stack, Machine Learning<br>⚡ Fun Fact: Study too much-> stressed, Study too little-> stressed later (or not at all)
 
 📫 How to reach me pratyaksh1594@gmail.com <br>
-📄 Know about my experiences https://pratyaksh-portfolio.vercel.app/
+📄 Know about my experiences https://pratyaksh.online/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratyakshh15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyaksh-989922256/) [![](https://img.shields.io/badge/X-black.svg?logoColor=white)](https://x.com/Pratyaksh_1509) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratyaksh1594@gmail.com) 
