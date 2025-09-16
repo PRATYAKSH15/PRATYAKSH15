@@ -7,7 +7,8 @@
 
 # 💫 About Me: 
 <!--🔭 I’m currently working on MediSync-->
-<br>🌱 I’m currently learning AWS <br>🤝 I’m looking for help with AI integrated workflows <br>💬 Ask me about Generative AI, MERN Stack, Machine Learning<br>⚡ Fun Fact: Study too much-> stressed, Study too little-> stressed later (or not at all)
+<!--<br>🌱 I’m currently learning AWS --> 
+<br>🤝 I’m looking for help with FastApi <br>💬 Ask me about Generative AI, MERN Stack, Machine Learning<br>⚡ Fun Fact: Study too much-> stressed, Study too little-> stressed later (or not at all)
 
 📫 How to reach me pratyaksh1594@gmail.com <br>
 📄 Know about my experiences https://pratyaksh.online/
