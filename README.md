@@ -13,6 +13,31 @@
 📫 How to reach me pratyaksh1594@gmail.com <br>
 📄 Know about my experiences https://pratyaksh.online/
 
+# 💼 Featured Projects
+
+### 🧠 [MindNest](https://github.com/PRATYAKSH15/MindNest)
+**Tech Stack:** ReactJS, NodeJS, ExpressJS, Clerk, TailwindCSS, MongoDB  
+- Developed a Mental Health Platform with curated guides and 5+ community features using Clerk Authentication, boosting user engagement by **30%**.  
+- Designed a modern and responsive UI using **TailwindCSS**, **ShadCN**, and **Framer Motion**, improving session retention by **25%**.
+
+---
+
+### 🎯 [GuidelyAI](https://github.com/PRATYAKSH15/GuidelyAI)
+**Tech Stack:** NextJS, TailwindCSS, PostgreSQL, Gemini API, Vercel, Inngest  
+- Built an AI-powered career guidance platform using **Gemini API**, improving user decision-making by **40%**.  
+- Implemented role-based authentication, progress tracking, and scalable deployment handling **1K+ users**.
+
+---
+
+### 🥗 [NutriTrack - AI Nutritionist Assistant](https://github.com/PRATYAKSH15/NutriTrack)
+**Tech Stack:** Python, Streamlit, Gemini API, SQLite  
+- Created an AI-powered nutrition assistant analyzing food images with **90%+ accuracy** in ingredient recognition.  
+- Integrated multi-user access, calorie tracking, and Gemini 1.5 Flash for fast image-based dietary insights.
+
+---
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratyakshh15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyaksh-989922256/) [![](https://img.shields.io/badge/X-black.svg?logoColor=white)](https://x.com/Pratyaksh_1509) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratyaksh1594@gmail.com) 
 
