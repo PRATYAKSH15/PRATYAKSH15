@@ -15,6 +15,13 @@
 
 # 💼 Featured Projects
 
+### ⭐ [Elevatr](https://github.com/PRATYAKSH15/Elevatr)
+**Tech Stack:** NextJS, TypeScript, Saas, Clerk, TailwindCSS, PostgreSQL  
+- Architected an intelligent SaaS with **8+ automation features**, including resume scoring and AI-generated content using Gemini. 
+- Improved keyword-match accuracy by up to **70%** using **NLP-driven** and ATS-aligned optimization pipelines..
+
+---
+
 ### 🧠 [MindNest](https://github.com/PRATYAKSH15/MindNest)
 **Tech Stack:** ReactJS, NodeJS, ExpressJS, Clerk, TailwindCSS, MongoDB  
 - Developed a Mental Health Platform with curated guides and 5+ community features using Clerk Authentication, boosting user engagement by **30%**.  
