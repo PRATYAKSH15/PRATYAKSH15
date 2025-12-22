@@ -15,6 +15,8 @@
 
 # 💼 Featured Projects
 
+---
+
 ### ⭐ [Elevatr](https://github.com/PRATYAKSH15/Elevatr)
 **Tech Stack:** NextJS, TypeScript, Saas, Clerk, TailwindCSS, PostgreSQL  
 - Architected an intelligent SaaS with **8+ automation features**, including resume scoring and AI-generated content using Gemini. 
